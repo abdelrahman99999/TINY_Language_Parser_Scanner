@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/001-info.png</file>
+        <file>icons/002-info-1.png</file>
+        <file>icons/about.png</file>
+        <file>icons/compression.png</file>
+        <file>icons/contact-us.png</file>
+        <file>icons/decompress.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/github-logo.png</file>
+        <file>icons/help.png</file>
+        <file>icons/json.png</file>
+        <file>icons/minify.jpg</file>
+        <file>icons/new-document.png</file>
+        <file>icons/open.png</file>
+        <file>icons/QT.png</file>
+        <file>icons/replace.png</file>
+        <file>icons/Save.ico</file>
+        <file>icons/Solve problem.png</file>
+        <file>icons/tutorial.png</file>
+        <file>icons/visualize.png</file>
+        <file>icons/xml Icon.png</file>
+        <file>icons/XML.png</file>
+        <file>Compiler.ico</file>
+    </qresource>
+</RCC>
